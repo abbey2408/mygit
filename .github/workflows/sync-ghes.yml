@@ -1,4 +1,5 @@
-git config user.name"GitHub Actions"
+
+git config user.name:[GitHub Actions]
     - uses:actions/setup-node@v3
         with:[]
         node-version:'12'
